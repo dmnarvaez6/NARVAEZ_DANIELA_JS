@@ -310,7 +310,7 @@ El desarrollo del sistema se gestionó mediante Git y GitHub, registrando cada c
 
 ## 📷 Evidencia del Historial de Commits
 
-img/historial-commits.png
+![Historial de Commits](img/historial-commits.png)
 
 ---
 
