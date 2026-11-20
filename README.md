@@ -111,7 +111,7 @@ Muestra un resumen general del evento antes de terminar la ejecución.
 ## Página Principal
 
 
-img/principal.png
+![Página Principal](img/principal.png)
 
 ---
 
@@ -119,7 +119,7 @@ img/principal.png
 
 
 
-img/menu.png
+![Menú Principal](img/menu.png)
 
 ---
 
